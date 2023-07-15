@@ -1,0 +1,24 @@
+.background{
+    width: 100%;
+    height: 100vh;
+    background-color: #B1D9DB;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    position: absolute;
+    z-index: 10000;
+    width: 35%;
+    top: 8rem;
+    left: 5rem;
+}
+
+.heading{
+    padding: 70px 50px;
+    font-size: 26px;
+    color: #fff;
+    font-weight: 400;
+    width: 30rem;
+}
+

@@ -1,0 +1,13 @@
+.button{
+    display: flex;
+    width: 200px;
+    font-size: 10px;
+    font-weight: 700;
+    border: 1px solid #EAEAEA;
+    border-radius: 9px;
+    padding: 8px 10px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+}
